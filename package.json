@@ -1,0 +1,16 @@
+{
+  "name": "lektion-13-selenium-google-intro",
+  "version": "1.0.0",
+  "description": "Testverktyg - Selenium",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "selenium-webdriver": "^4.9.0"
+  }
+}
